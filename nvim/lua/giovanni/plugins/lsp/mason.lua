@@ -29,8 +29,7 @@ mason_lspconfig.setup({
 		--  "tailwindcss",
 		"sumneko_lua",
 		"emmet_ls",
-		"jedi_language_server",
-		"pylsp",
+		"pyright",
 	},
 	-- auto-install configured servers (with lspconfig)
 	automatic_installation = true, -- not the same as ensure_installed
