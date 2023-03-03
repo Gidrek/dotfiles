@@ -27,7 +27,7 @@ mason_lspconfig.setup({
 		"cssls",
 		"clangd",
 		--  "tailwindcss",
-		"sumneko_lua",
+		"lua_ls",
 		"emmet_ls",
 		"pyright",
 	},
